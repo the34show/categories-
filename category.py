@@ -37,8 +37,11 @@ def game():
         #sets next variable
         if pokemon in name_to_first:
             print ("good job")
+            pokemon="1"
         else:
             return ("Dead")
+    
+
 
 
 
